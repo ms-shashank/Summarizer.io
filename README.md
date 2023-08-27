@@ -30,5 +30,7 @@ The Text Summarizer is a web-based application that allows users to input a piec
 3.Install the required packages using pip:
      pip install spacy
      pip install flask
+     python -m spacy download en_core_web_lg
+
   (Versions: Flask==2.0.1; spacy==3.1.2)
 
